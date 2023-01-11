@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "engines": {
+    "node": "v16.17.1"
+  },
+  
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "start": "node server/server.js",

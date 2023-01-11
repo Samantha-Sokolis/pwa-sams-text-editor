@@ -54,4 +54,4 @@ THEN I should have proper build scripts for a webpack application
 ## LINKS:
 GitHub: https://github.com/Samantha-Sokolis/pwa-sams-text-editor
 
-Heroku: 
+Heroku: https://samis-pwa-text-editor.herokuapp.com/

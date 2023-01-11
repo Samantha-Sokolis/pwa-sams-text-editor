@@ -11,7 +11,7 @@ GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
 
-![screen shot of VS Code folder structure](/Users/samanthasokolis/Desktop/classwork/class-homework/pwa-sams-text-editor/assets/text-editor-folder-structure-ss.png)
+![screen shot of VS Code folder structure](/assets/text-editor-folder-structure-ss.png)
 
 WHEN I run `npm run start` from the root directory
 THEN I find that my application should start up the backend and serve the client
@@ -22,7 +22,7 @@ THEN I find that I have a generated HTML file, service worker, and a manifest fi
 WHEN I use next-gen JavaScript in my application
 THEN I find that the text editor still functions in the browser without errors
 
-![screen shot of application](/Users/samanthasokolis/Desktop/classwork/class-homework/pwa-sams-text-editor/assets/application-screen-shot-ss.png)
+![screen shot of application](/assets/application-screen-shot-ss.png)
 
 WHEN I open the text editor
 THEN I find that IndexedDB has immediately created a database storage
